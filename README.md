@@ -6,9 +6,10 @@ This repository contains the code developed as part of my self-practice while co
 
 The project demonstrates basic Playwright concepts, including:
 
-- Setting up Playwright for UI testing.
-- Writing and executing tests.
-- Handling elements, assertions, and browser contexts.
+- Setting up Playwright
+- Writing code for simple test on (https://playwright.dev/) page
+- Learned about before all, before each, after all, after each and test.describe
+- Learned about Page Object Model
   
 **Prerequisites**
 
